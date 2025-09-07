@@ -1,0 +1,16 @@
+### IntelliJ IDEA ###
+.idea/
+*.iml
+out/
+
+### Java ###
+*.class
+*.log
+*.jar
+*.war
+*.ear
+hs_err_pid*
+
+### OS ###
+.DS_Store
+
