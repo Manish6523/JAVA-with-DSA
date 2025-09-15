@@ -1,3 +1,5 @@
+package easy;
+
 public class MinimumCostToMoveChips {
     public static void main(String[] args) {
         // Example input

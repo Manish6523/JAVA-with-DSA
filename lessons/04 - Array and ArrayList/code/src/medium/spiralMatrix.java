@@ -2,8 +2,9 @@ package medium;
 
 import java.util.ArrayList;
 
-public class java {
+public class spiralMatrix {
     public static void main(String[] args) {
+        // Given an m x n matrix, return all elements of the matrix in spiral order.
         int[][] arr = {
                 {1, 2, 3, 5, 6},
                 {13, 14, 15, 16, 7},
