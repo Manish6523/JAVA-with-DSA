@@ -21,8 +21,8 @@ public class ArrangingCoins {
         int rows = 0;
 
         for (int i = 1; i < coins; i++) {
-            System.out.println("i : " + i);
-            System.out.println("coins : " + coins);
+//            System.out.println("i : " + i);
+//            System.out.println("coins : " + coins);
             rows += 1;
             coins -= i;
         }
