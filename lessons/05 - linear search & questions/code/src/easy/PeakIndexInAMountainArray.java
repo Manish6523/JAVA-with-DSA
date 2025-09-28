@@ -18,7 +18,7 @@ public class PeakIndexInAMountainArray {
         Output: 1
          */
 
-        int[] arr ={0,1,10,99};
+        int[] arr ={4,5,6,7,8,9,0,1,2,3};
 
         System.out.println("Peak at index : " + peakmountaion(arr));
 //        System.out.println(arr.length);
