@@ -19,7 +19,7 @@ public class InsertionSort {
                     arr[j-1] = temp;
                 } else break;
             }
-            System.out.println("After pass " + (i + 1) + ": " + Arrays.toString(arr));
+           System.out.println("After pass " + (i + 1) + ": " + Arrays.toString(arr));
         }
     }
 }
