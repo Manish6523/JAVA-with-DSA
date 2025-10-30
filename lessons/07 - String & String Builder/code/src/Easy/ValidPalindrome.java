@@ -25,7 +25,7 @@ public class ValidPalindrome {
         String cleaned = s.toLowerCase().replaceAll("[^a-z0-9]", "");
 
         char[] ch = cleaned.toCharArray();
-//        
+//
 
         int start = 0;
         int end = ch.length - 1;
